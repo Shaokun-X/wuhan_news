@@ -1,0 +1,8 @@
+{
+    "dbname" : "news",
+    "tbname" : "report",
+    "user" : "news",
+    "password" : "prayforwuhan2020",
+    "host" : "49.233.200.133",
+    "port" : 5432
+}
